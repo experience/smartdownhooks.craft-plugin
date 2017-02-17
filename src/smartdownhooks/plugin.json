@@ -1,0 +1,9 @@
+{
+  "name": "Smartdown Hooks",
+  "description": "Example Craft plugin, demonstrating the use of Smartdown's hooks.",
+  "version": "1.0.0",
+  "developer": "Experience",
+  "developerUrl": "https://experiencehq.net",
+  "documentationUrl": "https://github.com/experience/smartdownhooks.craft-plugin/blob/master/README.md",
+  "releasesFeedUrl": "https://raw.githubusercontent.com/experience/smartdownhooks.craft-plugin/master/releases.json"
+}

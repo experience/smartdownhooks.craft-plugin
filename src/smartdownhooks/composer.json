@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Experience\\SmartdownHooks\\App\\": "app/"
+    }
+  },
+  "require": {
+    "league/container": "2.2.*"
+  }
+}

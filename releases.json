@@ -1,0 +1,11 @@
+[
+  {
+    "date": "2017-02-17T22:30:00+0000",
+    "downloadUrl": "https://github.com/experience/smartdownhooks.craft-plugin/releases/download/0.0.0/smartdownhooks-0.0.0.zip",
+    "notes": [
+      "# Initial Release #",
+      "[Added] Implement example hook handlers."
+    ],
+    "version": "1.0.0"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Experience\\SmartdownHooks\\App\\": "../smartdownhooks/app",
+      "Experience\\SmartdownHooks\\Tests\\": "./",
+      "Experience\\SmartdownHooks\\Tests\\App\\": "./app/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.8.*",
+    "mockery/mockery": "0.9.*"
+  }
+}
